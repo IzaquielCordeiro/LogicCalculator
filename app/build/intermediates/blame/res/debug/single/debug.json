@@ -428,6 +428,10 @@
         "source": "/home/izaquiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7330c22601c3826619f4867d6186d620/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/home/izaquiel/AndroidStudioProjects/LogicCalculator/app/build/intermediates/res/merged/debug/layout_table.xml.flat",
+        "source": "/home/izaquiel/AndroidStudioProjects/LogicCalculator/app/src/main/res/layout/table.xml"
+    },
+    {
         "merged": "/home/izaquiel/AndroidStudioProjects/LogicCalculator/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/izaquiel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7330c22601c3826619f4867d6186d620/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },

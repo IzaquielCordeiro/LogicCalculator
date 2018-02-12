@@ -1,16 +1,19 @@
 package com.example.izaquiel.logiccalculator;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+
 public class MainActivity extends AppCompatActivity
 {
     private TextView _screen;
     private String display = "";
     private String currentOperator = "";
+    private String operators ="∧∨¬→";
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -39,6 +42,7 @@ public class MainActivity extends AppCompatActivity
         display += b.getText();
         currentOperator += b.getText().toString();
         updateScreen();
+
     }
 
     protected void onClickDel(View v)
@@ -52,6 +56,7 @@ public class MainActivity extends AppCompatActivity
 
     protected void onClickGo(View v)
     {
-        
+        Intent myIntent = new Intent(v.getContext(), TableActivity.class);
+        startActivityForResult(myIntent, 0);
     }
 }

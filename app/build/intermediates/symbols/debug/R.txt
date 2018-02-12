@@ -1060,7 +1060,8 @@ int layout select_dialog_item_material 0x7f0a0039
 int layout select_dialog_multichoice_material 0x7f0a003a
 int layout select_dialog_singlechoice_material 0x7f0a003b
 int layout support_simple_spinner_dropdown_item 0x7f0a003c
-int layout tooltip 0x7f0a003d
+int layout table 0x7f0a003d
+int layout tooltip 0x7f0a003e
 int mipmap ic_launcher 0x7f0b0000
 int mipmap ic_launcher_round 0x7f0b0001
 int string a 0x7f0c0000

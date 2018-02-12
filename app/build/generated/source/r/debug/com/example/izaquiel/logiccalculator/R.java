@@ -3766,7 +3766,8 @@ public final class R {
     public static final int select_dialog_multichoice_material=0x7f0a003a;
     public static final int select_dialog_singlechoice_material=0x7f0a003b;
     public static final int support_simple_spinner_dropdown_item=0x7f0a003c;
-    public static final int tooltip=0x7f0a003d;
+    public static final int table=0x7f0a003d;
+    public static final int tooltip=0x7f0a003e;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0b0000;
