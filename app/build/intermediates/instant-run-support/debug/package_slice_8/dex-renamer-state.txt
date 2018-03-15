@@ -1,4 +1,4 @@
-#Mon Feb 12 16:26:29 BRT 2018
-base.0=/home/izaquiel/AndroidStudioProjects/LogicCalculator/app/build/intermediates/transforms/dexMerger/debug/47
+#Wed Mar 14 01:19:27 BRT 2018
+base.0=/home/izaquiel/AndroidStudioProjects/LogicCalculator/app/build/intermediates/transforms/dexMerger/debug/85
 path.0=classes.dex
 renamed.0=classes.dex

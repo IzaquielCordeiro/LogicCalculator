@@ -76,7 +76,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:elevation="12dp"
-            android:onClick="onClickOperator"
+            android:onClick="onClickNot"
             android:text="@string/not"
             android:textStyle="bold" />
 
@@ -125,7 +125,7 @@
             android:layout_rowWeight="1"
             android:backgroundTint="@android:color/black"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/a" />
 
         <Button
@@ -138,7 +138,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/g" />
 
         <Button
@@ -151,7 +151,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/m" />
 
         <Button
@@ -164,7 +164,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/s" />
 
         <Button
@@ -177,7 +177,7 @@
             android:layout_row="4"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/y" />
 
         <Button
@@ -190,7 +190,7 @@
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/b" />
 
         <Button
@@ -203,7 +203,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/h" />
 
         <Button
@@ -216,7 +216,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/n" />
 
         <Button
@@ -229,7 +229,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/t" />
 
         <Button
@@ -242,7 +242,7 @@
             android:layout_row="4"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/z" />
 
         <Button
@@ -255,7 +255,7 @@
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/c"
             tools:ignore="HardcodedText" />
 
@@ -269,7 +269,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/i" />
 
         <Button
@@ -282,7 +282,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/o" />
 
         <Button
@@ -295,7 +295,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/u" />
 
         <Button
@@ -308,7 +308,7 @@
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/d" />
 
         <Button
@@ -321,7 +321,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/j" />
 
         <Button
@@ -334,7 +334,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/p" />
 
         <Button
@@ -347,7 +347,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/v" />
 
         <Button
@@ -375,7 +375,7 @@
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/e" />
 
         <Button
@@ -388,7 +388,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/k" />
 
         <Button
@@ -401,7 +401,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/q" />
 
         <Button
@@ -414,7 +414,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/w" />
 
         <Button
@@ -442,7 +442,7 @@
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/f" />
 
         <Button
@@ -455,7 +455,7 @@
             android:layout_row="1"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/l" />
 
         <Button
@@ -468,7 +468,7 @@
             android:layout_row="2"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/r" />
 
         <Button
@@ -481,7 +481,7 @@
             android:layout_row="3"
             android:layout_rowWeight="1"
             android:elevation="12dp"
-            android:onClick="onClickLetter"
+            android:onClick="onClickPropositions"
             android:text="@string/x" />
 
 
